@@ -1,4 +1,4 @@
-This script goldfishes your Magic: The Gathering deck. It takes 5 parameters:
+This script goldfishes your commander deck. It takes 5 parameters:
 
 1.   **deck**. A dictionary that defines the ratios of each card type in your deck.
 2.   **keep**. A dictionary that defines the *worst* hand you'll keep while mulliganing.
